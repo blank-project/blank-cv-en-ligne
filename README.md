@@ -46,7 +46,7 @@ Votre site doit contenir les sections suivantes :
 
 ### Layout & Composants UI
 * Le site peut être sur une seule ou plusieurs pages HTML
-* Il doit utiliser Gid ou Flexbox pour le layout
+* Il doit utiliser Grid ou Flexbox pour le layout
 * Il doit avec une navbar (adapté pour le mobile : burger, possibilité de la cacher, etc.)
 * Il doit y avoir un formulaire pour vous contacter (formspree)
 * Il doit y avoir un footer contenant les informations Copyright ou Copyleft, indiquant l'auteur, l'année et la License pour votre code
